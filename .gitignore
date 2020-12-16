@@ -1,5 +1,11 @@
 # http://www.gnu.org/software/automake
 
+#nodemodules
+node_modules
+
+#Packages
+package-lock.json
+
 Makefile.in
 /ar-lib
 /mdate-sh
